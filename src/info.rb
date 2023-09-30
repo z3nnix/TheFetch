@@ -36,7 +36,7 @@ def output(data,data1,data2,data3,data4,data5,data6)
 end
 
 begin
-    eval(File.read("/home/setscript/.config/thefetch/config.conf"))
+    eval(File.read("/home/#{username}/.config/thefetch/config.conf"))
 rescue
     puts "Config erorr".on_red.black.bold
 end

@@ -1,3 +1,5 @@
+username = `users`.chomp!
+
 def output(data,data1,data2,data3,data4,data5,data6)
     hostname = `hostname`.chomp!   
     username = `users`.chomp!

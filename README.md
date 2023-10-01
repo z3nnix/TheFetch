@@ -3,8 +3,8 @@
 # Prewiev
 ![prewiev](screenshout.jpeg)
 # Fact:
-- in **neofetch** => **15 000** code line.
-- in **thefetch** => **46** code line.
+- in **neofetch** => **_~_15 000** code line.
+- in **thefetch** => **_~_46** code line.
 # LICENSE
 ```
 BSD 2-Clause License

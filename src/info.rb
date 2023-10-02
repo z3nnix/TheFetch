@@ -40,5 +40,5 @@ end
 begin
     eval(File.read("/home/#{username}/.config/thefetch/config.conf"))
 rescue
-    puts "Config erorr".on_red.black.bold
+    puts "Config error".on_red.black.bold
 end

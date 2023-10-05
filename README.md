@@ -1,6 +1,6 @@
 # Thefetch
 > the minimalistic alternative for neofetch.
-# Preview
+# Preview:
 ![preview](screenshout.jpeg)
 # Fact:
 - in **neofetch** => _~_**15 000** line of code.

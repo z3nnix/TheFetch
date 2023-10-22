@@ -1,5 +1,5 @@
 # Thefetch
-> the minimalistic alternative for neofetch.
+> the minimalistic alternative for neofetch
 # Preview:
 ![preview](screenshout.jpeg)
 # Fact:
